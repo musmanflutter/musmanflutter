@@ -1,7 +1,5 @@
 # Hello, I'm Muhammad Usman! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social) ![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
-
 ## 🚀 About Me
 
 I'm a skilled Flutter developer with a passion for creating visually stunning and highly functional apps. My expertise includes using Firebase for basic backend functionalities, ensuring seamless integrations.
@@ -37,34 +35,28 @@ I'm a skilled Flutter developer with a passion for creating visually stunning an
 - Implemented Firebase for data storage and RiverPod for state management.
 - Enhanced user experience with smooth transitions and animations.
 - **Admin App**: Added, removed, and managed deals, services, specialists, FAQs, and bookings.
-- [GitHub Repository](https://github.com/yourusername/salon-booking-app)
+- [GitHub Repository](https://github.com/musmanflutter/Sohna-Salon-App)
 
 ### Meal App
 - Created an app with categorized meals and detailed descriptions.
 - Added favorites feature and sorting filters.
-- [GitHub Repository](https://github.com/yourusername/meal-app)
+- [GitHub Repository](https://github.com/musmanflutter/meal-app)
 
 ### Chat App
 - Built a real-time messaging app with user authentication.
 - Utilized Firebase for backend data management.
-- [GitHub Repository](https://github.com/yourusername/chat-app)
+- [GitHub Repository](https://github.com/musmanflutter/chat-app)
 
 ### Quiz App
 - Designed an app with multiple-choice questions and result summary.
 - Implemented navigation between questions and result tracking.
-- [GitHub Repository](https://github.com/yourusername/quiz-app)
+- [GitHub Repository](https://github.com/musmanflutter/quiz-app)
 
 ## 📫 Contact Me
 
-- **Email**: youremail@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **Email**: umuhammad662@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/developer-usman/)
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musmanflutter&show_icons=true&theme=radical)
