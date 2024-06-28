@@ -55,7 +55,7 @@ I'm a skilled Flutter developer with a passion for creating visually stunning an
 ## 📫 Contact Me
 
 - **Email**: umuhammad662@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/developer-usman/)
+- **LinkedIn**: [https://www.linkedin.com/in/developer-usman/]
 
 ## 📈 GitHub Stats
 
