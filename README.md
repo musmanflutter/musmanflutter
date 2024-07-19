@@ -47,10 +47,11 @@ I'm a skilled Flutter developer with a passion for creating visually stunning an
 - Utilized Firebase for backend data management.
 - [GitHub Repository](https://github.com/musmanflutter/chat-app)
 
-### Quiz App
-- Designed an app with multiple-choice questions and result summary.
-- Implemented navigation between questions and result tracking.
-- [GitHub Repository](https://github.com/musmanflutter/quiz-app)
+### Expense Tracker App
+- Users can add new expenses by specifying the title, amount, date, and category.
+- The main page displays a chart of all categories showing the total expenses for each category and a list of all expenses.
+- The app adapts to the system theme, supporting both dark and light modes.
+- [GitHub Repository](https://github.com/musmanflutter/Expanse-Tracker)
 
 ## 📫 Contact Me
 
