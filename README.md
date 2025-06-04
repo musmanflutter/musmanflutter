@@ -1,63 +1,69 @@
-# Hello, I'm Muhammad Usman! 👋
+# 👋 Hello, I'm Muhammad Usman!
+
+### Flutter Developer | Passionate about building clean, efficient, and scalable apps
+
+---
 
 ## 🚀 About Me
 
-I'm a skilled Flutter developer with a passion for creating visually stunning and highly functional apps. My expertise includes using Firebase for basic backend functionalities, ensuring seamless integrations.
+I am a versatile Flutter developer with over **1 year of professional experience** and more than **2 years of hands-on development**. I specialize in building cross-platform apps with Flutter, integrating Firebase, and using modern state management like Riverpod. My focus is on writing clean, scalable code that delivers seamless user experiences.
+
+I’m constantly learning and improving my skills to build better apps and solve real-world problems efficiently.
+
+---
 
 ## 🌱 Currently Learning
 
-- Advanced Flutter development
-- Machine Learning in Flutter
+- Advanced Flutter & Dart techniques  
+- Machine Learning & AI integration  
+- Cloud and backend optimization  
 
-## 💼 Skills
+---
 
-### Programming Languages
-- **Dart**
-- **Java** (Fundamentals)
-- **C++** (Fundamentals)
-- **Python** (Fundamentals)
+## 💡 Skills
 
-### Frameworks and Tools
-- **Flutter Framework**
-- **Firebase**
-- **RiverPod**
-- **Git & GitHub**
+### Technical Skills
+- **Flutter:** Dart, OOP, API Integration, Google Maps integration, MVC, Performance Optimization, Unit Testing  
+- **State Management:** Riverpod, Provider  
+- **Firebase Integration (SDK/REST API):** Authentication, Firestore, Realtime DB, Storage, Messaging (FCM)  
+- **Local Database:** SQFlite, Shared Preferences, Hive  
+- **UI/UX:** Adaptive & Responsive Design, Animations, Theming  
+- **Routing:** GoRouter, Named Routing, Direct Routing  
+- **Backend Integration:** RESTful APIs, WebSockets, Dio, HTTP  
+- **Version Control & Tools:** Git, GitHub, Photoshop, Postman  
 
-### Design & UI/UX
-- **UI/UX Design**
-- **Adobe Photoshop**
-- **Responsive Design**
+### Soft Skills
+- Problem-solving, Communication, Teamwork, Adaptability, Critical Thinking, Attention to Detail  
 
-## 🛠️ Projects
+---
 
-### Salon Booking App
-- Developed an app for booking appointments, viewing deals, services, prices, and salon details.
-- Implemented Firebase for data storage and RiverPod for state management.
-- Enhanced user experience with smooth transitions and animations.
-- **Admin App**: Added, removed, and managed deals, services, specialists, FAQs, and bookings.
-- [GitHub Repository](https://github.com/musmanflutter/Sohna-Salon-App)
+## 🔥 Featured Projects
 
-### Meal App
-- Created an app with categorized meals and detailed descriptions.
-- Added favorites feature and sorting filters.
-- [GitHub Repository](https://github.com/musmanflutter/meal-app)
+### Salon Booking App  
+A complete booking system with separate user & admin apps, real-time syncing using Firebase, and smooth animations.  
+[GitHub Repo](https://github.com/musmanflutter/Sohna-Salon-App)
 
-### Chat App
-- Built a real-time messaging app with user authentication.
-- Utilized Firebase for backend data management.
-- [GitHub Repository](https://github.com/musmanflutter/chat-app)
+### Meal App  
+Categorized meals with favorites and sorting filters, built for a clean, friendly experience.  
+[GitHub Repo](https://github.com/musmanflutter/meal-app)
 
-### Expense Tracker App
-- Users can add new expenses by specifying the title, amount, date, and category.
-- The main page displays a chart of all categories showing the total expenses for each category and a list of all expenses.
-- The app adapts to the system theme, supporting both dark and light modes.
-- [GitHub Repository](https://github.com/musmanflutter/Expanse-Tracker)
+### Chat App  
+Real-time messaging with Firebase authentication and secure data handling.  
+[GitHub Repo](https://github.com/musmanflutter/chat-app)
 
-## 📫 Contact Me
+### Expense Tracker  
+Track your expenses with categories, charts, and theme support for light/dark modes.  
+[GitHub Repo](https://github.com/musmanflutter/Expanse-Tracker)
 
-- **Email**: umuhammad662@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/developer-usman/
+---
+
+## 📫 Let’s Connect!
+
+- **Email:** [umuhammad662@gmail.com](mailto:umuhammad662@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/developer-usman](https://www.linkedin.com/in/developer-usman)  
+
+---
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musmanflutter&show_icons=true&theme=radical)
+![Muhammad Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musmanflutter&show_icons=true&theme=radical)
