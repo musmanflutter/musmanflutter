@@ -4,51 +4,54 @@
 ---
 
 ## 🚀 About Me
-I engineer production mobile applications and AI-powered systems using **Flutter, Dart, Firebase, and Django REST Framework**—bridging clean client architecture with multi-LLM orchestration and real-time backend infrastructure.
+I'm a Flutter developer with 2+ years of experience building mobile apps, and several of them are live on Google Play. I work with Firebase and Django REST Framework on the backend, and I like building AI features into apps.
 
-- 📱 **Production Mobile Engineering:** Shipped live Google Play apps and multi-app ecosystems across real-time fleet tracking, on-demand logistics, and service booking.
-- 🤖 **AI & Agentic Systems:** Founder & developer of **Hubnex AI** (multi-LLM routing assistant) and **Orchestra AI** (autonomous multi-step booking platform built for the Google AI Seekho 2026 National Hackathon).
-- 🏗️ **Architecture & Security:** Focused on clean **MVC + Repository + Controller** separation, **Riverpod** state management, **Firebase Cloud Functions & App Check**, and **Django REST + WebSockets** with Role-Based Access Control (RBAC).
+- 📱 **Mobile:** Shipped live Google Play apps, including a real-time shuttle driver app and my own AI app, Hubnex AI.
+- 🤖 **AI:** Built Hubnex AI (multi-LLM routing assistant) and Orchestra AI (agentic booking platform for the Google AI Seekho 2026 National Hackathon).
+- 🏗️ **Backend:** Firebase Cloud Functions, plus Django REST Framework with WebSockets and role-based access control (RBAC).
 
 ---
 
-## 🔥 Flagship Projects & Production Systems
+## 🔥 Featured Projects
 
-### 🧠 Hubnex AI — Multi-LLM Routing & AI Assistant *(Live on Google Play)*
-- Automated prompt-routing assistant that dynamically selects the optimal model (**Gemini, ChatGPT, DeepSeek**) per task category.
-- Engineered streaming Firestore responses, persistent context pinning, and secure API orchestration via Firebase Cloud Functions.
+### 🧠 Hubnex AI — Multi-LLM AI App *(Live on Google Play)*
+- Routes each prompt to the most suitable model (Gemini, DeepSeek) based on the task.
+- Streaming responses with Firestore, chat memory, Google Play subscriptions, and secure API calls through Firebase Cloud Functions.
+- 🔗 [Google Play](PASTE_PLAY_STORE_LINK) · [Website](PASTE_WEBSITE_LINK)
 
 ### ⚡ Orchestra AI — Agentic Service Booking Platform *(Google AI Seekho 2026)*
-- Autonomous multi-step service discovery and scheduling assistant powered by agentic workflows and real-time availability state.
+- Multilingual booking workflows, provider selection reasoning, and real-time admin handling.
+- 🔗 [GitHub](PASTE_ORCHESTRA_REPO_LINK)
 
-### 🚐 Ultron Driver — Real-Time Shuttle & Fleet Tracking App *(Live on Google Play | XMIND Limited)*
-- Production Flutter driver app for phones and in-vehicle tablets featuring live **WebSocket** booking streams, **Google Maps API** GPS tracking, and biometric authentication.
+### 🚐 Ultron Driver — Shuttle Driver App *(Live on Google Play | XMIND Limited)*
+- Driver app with separate UIs for phones and in-shuttle tablets.
+- Live bookings over WebSockets, GPS tracking with Google Maps API, and biometric authentication.
+- 🔗 [Google Play](PASTE_ULTRON_PLAY_STORE_LINK)
 
-### 💇 Sohna Salon App — Dual-App Booking & Management Ecosystem
-- Separate **Customer** and **Admin** Flutter applications synchronized in real time via Firebase.
-- 🔗 [Customer & Admin Repositories](https://github.com/musmanflutter/Sohna-Salon-App)
+### 💇 Sohna Salon App — Customer & Admin Apps
+- Salon booking system with a customer app and a companion admin app, built with Flutter and Firebase.
+- 🔗 [Customer App](https://github.com/musmanflutter/Sohna-Salon-App) · [Admin App](PASTE_ADMIN_REPO_LINK)
 
-### 🧺 Stitch & Wash — Three-App Laundry & Logistics Suite *(Digitize Bird)*
-- Multi-role on-demand delivery ecosystem spanning **Customer, Rider, and Admin** Flutter apps with live order lifecycle tracking.
+### 🧺 Stitch & Wash — Laundry Service Apps *(Digitize Bird)*
+- Three Flutter apps for a laundry and stitching service, built at Digitize Bird.
 
 ---
 
-## 🛠️ Core Tech Stack
+## 🛠️ Tech Stack
 
-- **Mobile & UI:** Flutter, Dart, Flutter Web, Responsive & Adaptive UI, Custom Animations
-- **State & Navigation:** Riverpod, GoRouter, MVC + Repository Architecture
-- **AI & Agents:** Multi-LLM Routing (Gemini, OpenAI, DeepSeek), Generative AI, Agentic Workflows
-- **Backend & Cloud:** Firebase (Auth, Firestore, Cloud Functions, App Check, FCM), Python, Django REST Framework, REST APIs, WebSockets, RBAC
+- **Mobile & UI:** Flutter, Dart, Flutter Web, Responsive UI, Animations
+- **State & Navigation:** Riverpod, GoRouter
+- **AI:** LLM integration, multi-model routing, agentic workflows
+- **Backend & Cloud:** Firebase (Auth, Firestore, Cloud Functions, FCM), Django REST Framework, REST APIs, WebSockets, RBAC
 - **Local Storage & Maps:** SQFlite, Hive, SharedPreferences, Google Maps API
-- **DevOps & Quality:** Git, GitHub, Unit Testing, Google Play Console
+- **Tools:** Git, GitHub, Postman, Unit Testing, Google Play Console
 
 ---
 
-## 📫 Connect & Portfolio
+## 📫 Connect
 - **LinkedIn:** [linkedin.com/in/developer-usman](https://www.linkedin.com/in/developer-usman)
 - **Email:** [umuhammad662@gmail.com](mailto:umuhammad662@gmail.com)
 
 ---
 
-## 📈 GitHub Activity
 ![Muhammad Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musmanflutter&show_icons=true&theme=tokyonight&hide_border=true)
