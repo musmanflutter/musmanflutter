@@ -51,9 +51,3 @@ I'm a Flutter developer with 2+ years of experience building mobile apps, and se
 ## 📫 Connect
 - **LinkedIn:** [linkedin.com/in/developer-usman](https://www.linkedin.com/in/developer-usman)
 - **Email:** [umuhammad662@gmail.com](mailto:umuhammad662@gmail.com)
-
----
-
-## 📈 GitHub Activity
-[![GitHub Streak](https://streak-stats.demolab.com?user=musmanflutter&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-![Muhammad Usman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=musmanflutter&theme=tokyo-night&hide_border=true)
