@@ -17,20 +17,20 @@ I'm a Flutter developer with 2+ years of experience building mobile apps, and se
 ### 🧠 Hubnex AI — Multi-LLM AI App *(Live on Google Play)*
 - Routes each prompt to the most suitable model (Gemini, DeepSeek) based on the task.
 - Streaming responses with Firestore, chat memory, Google Play subscriptions, and secure API calls through Firebase Cloud Functions.
-- 🔗 [Google Play](PASTE_PLAY_STORE_LINK) · [Website](PASTE_WEBSITE_LINK)
+- 🔗 [Google Play](https://play.google.com/store/apps/details?id=com.hubnexai.app) · [Website](https://www.hubnexai.com/)
 
 ### ⚡ Orchestra AI — Agentic Service Booking Platform *(Google AI Seekho 2026)*
 - Multilingual booking workflows, provider selection reasoning, and real-time admin handling.
-- 🔗 [GitHub](PASTE_ORCHESTRA_REPO_LINK)
+- 🔗 [GitHub](https://github.com/musmanflutter/ai_service_orchestrator)
 
 ### 🚐 Ultron Driver — Shuttle Driver App *(Live on Google Play | XMIND Limited)*
 - Driver app with separate UIs for phones and in-shuttle tablets.
 - Live bookings over WebSockets, GPS tracking with Google Maps API, and biometric authentication.
-- 🔗 [Google Play](PASTE_ULTRON_PLAY_STORE_LINK)
+- 🔗 [Google Play](https://play.google.com/store/apps/details?id=com.parkinglink.driver)
 
 ### 💇 Sohna Salon App — Customer & Admin Apps
 - Salon booking system with a customer app and a companion admin app, built with Flutter and Firebase.
-- 🔗 [Customer App](https://github.com/musmanflutter/Sohna-Salon-App) · [Admin App](PASTE_ADMIN_REPO_LINK)
+- 🔗 [Customer App](https://github.com/musmanflutter/Sohna-Salon-App) · [Admin App](https://github.com/musmanflutter/Admin-Salon-App)
 
 ### 🧺 Stitch & Wash — Laundry Service Apps *(Digitize Bird)*
 - Three Flutter apps for a laundry and stitching service, built at Digitize Bird.
