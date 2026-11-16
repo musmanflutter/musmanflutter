@@ -1,69 +1,54 @@
-# 👋 Hello, I'm Muhammad Usman!
-
-### Flutter Developer | Passionate about building clean, efficient, and scalable apps
+# 👋 Hi, I'm Muhammad Usman
+### Flutter & AI Developer | Dart • Riverpod • Firebase • Django REST | Building Hubnex AI (Live on Google Play)
 
 ---
 
 ## 🚀 About Me
+I engineer production mobile applications and AI-powered systems using **Flutter, Dart, Firebase, and Django REST Framework**—bridging clean client architecture with multi-LLM orchestration and real-time backend infrastructure.
 
-I am a versatile Flutter developer with over **1 year of professional experience** and more than **2 years of hands-on development**. I specialize in building cross-platform apps with Flutter, integrating Firebase, and using modern state management like Riverpod. My focus is on writing clean, scalable code that delivers seamless user experiences.
-
-I’m constantly learning and improving my skills to build better apps and solve real-world problems efficiently.
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Flutter & Dart techniques  
-- Machine Learning & AI integration  
-- Cloud and backend optimization  
+- 📱 **Production Mobile Engineering:** Shipped live Google Play apps and multi-app ecosystems across real-time fleet tracking, on-demand logistics, and service booking.
+- 🤖 **AI & Agentic Systems:** Founder & developer of **Hubnex AI** (multi-LLM routing assistant) and **Orchestra AI** (autonomous multi-step booking platform built for the Google AI Seekho 2026 National Hackathon).
+- 🏗️ **Architecture & Security:** Focused on clean **MVC + Repository + Controller** separation, **Riverpod** state management, **Firebase Cloud Functions & App Check**, and **Django REST + WebSockets** with Role-Based Access Control (RBAC).
 
 ---
 
-## 💡 Skills
+## 🔥 Flagship Projects & Production Systems
 
-### Technical Skills
-- **Flutter:** Dart, OOP, API Integration, Google Maps integration, MVC, Performance Optimization, Unit Testing  
-- **State Management:** Riverpod, Provider  
-- **Firebase Integration (SDK/REST API):** Authentication, Firestore, Realtime DB, Storage, Messaging (FCM)  
-- **Local Database:** SQFlite, Shared Preferences, Hive  
-- **UI/UX:** Adaptive & Responsive Design, Animations, Theming  
-- **Routing:** GoRouter, Named Routing, Direct Routing  
-- **Backend Integration:** RESTful APIs, WebSockets, Dio, HTTP  
-- **Version Control & Tools:** Git, GitHub, Photoshop, Postman  
+### 🧠 Hubnex AI — Multi-LLM Routing & AI Assistant *(Live on Google Play)*
+- Automated prompt-routing assistant that dynamically selects the optimal model (**Gemini, ChatGPT, DeepSeek**) per task category.
+- Engineered streaming Firestore responses, persistent context pinning, and secure API orchestration via Firebase Cloud Functions.
 
-### Soft Skills
-- Problem-solving, Communication, Teamwork, Adaptability, Critical Thinking, Attention to Detail  
+### ⚡ Orchestra AI — Agentic Service Booking Platform *(Google AI Seekho 2026)*
+- Autonomous multi-step service discovery and scheduling assistant powered by agentic workflows and real-time availability state.
 
----
+### 🚐 Ultron Driver — Real-Time Shuttle & Fleet Tracking App *(Live on Google Play | XMIND Limited)*
+- Production Flutter driver app for phones and in-vehicle tablets featuring live **WebSocket** booking streams, **Google Maps API** GPS tracking, and biometric authentication.
 
-## 🔥 Featured Projects
+### 💇 Sohna Salon App — Dual-App Booking & Management Ecosystem
+- Separate **Customer** and **Admin** Flutter applications synchronized in real time via Firebase.
+- 🔗 [Customer & Admin Repositories](https://github.com/musmanflutter/Sohna-Salon-App)
 
-### Salon Booking App  
-A complete booking system with separate user & admin apps, real-time syncing using Firebase, and smooth animations.  
-[GitHub Repo](https://github.com/musmanflutter/Sohna-Salon-App)
-
-### Meal App  
-Categorized meals with favorites and sorting filters, built for a clean, friendly experience.  
-[GitHub Repo](https://github.com/musmanflutter/meal-app)
-
-### Chat App  
-Real-time messaging with Firebase authentication and secure data handling.  
-[GitHub Repo](https://github.com/musmanflutter/chat-app)
-
-### Expense Tracker  
-Track your expenses with categories, charts, and theme support for light/dark modes.  
-[GitHub Repo](https://github.com/musmanflutter/Expanse-Tracker)
+### 🧺 Stitch & Wash — Three-App Laundry & Logistics Suite *(Digitize Bird)*
+- Multi-role on-demand delivery ecosystem spanning **Customer, Rider, and Admin** Flutter apps with live order lifecycle tracking.
 
 ---
 
-## 📫 Let’s Connect!
+## 🛠️ Core Tech Stack
 
-- **Email:** [umuhammad662@gmail.com](mailto:umuhammad662@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/developer-usman](https://www.linkedin.com/in/developer-usman)  
+- **Mobile & UI:** Flutter, Dart, Flutter Web, Responsive & Adaptive UI, Custom Animations
+- **State & Navigation:** Riverpod, GoRouter, MVC + Repository Architecture
+- **AI & Agents:** Multi-LLM Routing (Gemini, OpenAI, DeepSeek), Generative AI, Agentic Workflows
+- **Backend & Cloud:** Firebase (Auth, Firestore, Cloud Functions, App Check, FCM), Python, Django REST Framework, REST APIs, WebSockets, RBAC
+- **Local Storage & Maps:** SQFlite, Hive, SharedPreferences, Google Maps API
+- **DevOps & Quality:** Git, GitHub, Unit Testing, Google Play Console
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Connect & Portfolio
+- **LinkedIn:** [linkedin.com/in/developer-usman](https://www.linkedin.com/in/developer-usman)
+- **Email:** [umuhammad662@gmail.com](mailto:umuhammad662@gmail.com)
 
-![Muhammad Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musmanflutter&show_icons=true&theme=radical)
+---
+
+## 📈 GitHub Activity
+![Muhammad Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musmanflutter&show_icons=true&theme=tokyonight&hide_border=true)
