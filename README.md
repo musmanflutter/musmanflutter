@@ -54,4 +54,5 @@ I'm a Flutter developer with 2+ years of experience building mobile apps, and se
 
 ---
 
-![Muhammad Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musmanflutter&show_icons=true&theme=tokyonight&hide_border=true)
+## 📈 GitHub Stats
+![Muhammad Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musmanflutter&show_icons=true&theme=radical)
